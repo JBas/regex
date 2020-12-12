@@ -1,0 +1,3 @@
+[submodule "lib/stdstruct"]
+	path = lib/stdstruct
+	url = git@github.com:JBas/stdstruct.git
